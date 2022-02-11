@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/DEVEN_WORKSPACE/Projects/VIK3/app/src/main/res/drawable/button_bg.xml" value="0.24166666666666667" />
+        <entry key="..\:/DEVEN_WORKSPACE/Projects/VIK3/app/src/main/res/layout/activity_forgot_password.xml" value="0.13645833333333332" />
+        <entry key="..\:/DEVEN_WORKSPACE/Projects/VIK3/app/src/main/res/layout/activity_log_in_activity.xml" value="0.3435897435897436" />
+        <entry key="..\:/DEVEN_WORKSPACE/Projects/VIK3/app/src/main/res/layout/activity_main.xml" value="0.3489583333333333" />
+        <entry key="..\:/DEVEN_WORKSPACE/Projects/VIK3/app/src/main/res/layout/activity_registration.xml" value="0.25" />
+        <entry key="..\:/DEVEN_WORKSPACE/Projects/VIK3/app/src/main/res/layout/activity_setting.xml" value="0.3489583333333333" />
+        <entry key="..\:/DEVEN_WORKSPACE/Projects/VIK3/app/src/main/res/layout/activity_splash_screen.xml" value="0.3489583333333333" />
+        <entry key="..\:/DEVEN_WORKSPACE/Projects/VIK3/app/src/main/res/layout/circular_dialog.xml" value="0.3489583333333333" />
+        <entry key="..\:/DEVEN_WORKSPACE/Projects/VIK3/app/src/main/res/layout/dialog_share_album.xml" value="0.3489583333333333" />
+        <entry key="..\:/DEVEN_WORKSPACE/Projects/VIK3/app/src/main/res/layout/fragment_home.xml" value="0.33" />
+        <entry key="..\:/DEVEN_WORKSPACE/Projects/VIK3/app/src/main/res/layout/fragment_radio.xml" value="0.2" />
+        <entry key="..\:/DEVEN_WORKSPACE/Projects/VIK3/app/src/main/res/layout/item_artist_detail.xml" value="0.13645833333333332" />
+        <entry key="..\:/DEVEN_WORKSPACE/Projects/VIK3/app/src/main/res/layout/item_home_album.xml" value="0.13645833333333332" />
+        <entry key="..\:/DEVEN_WORKSPACE/Projects/VIK3/app/src/main/res/layout/item_more.xml" value="0.19114583333333332" />
+        <entry key="..\:/DEVEN_WORKSPACE/Projects/VIK3/app/src/main/res/layout/item_notification.xml" value="0.3489583333333333" />
+        <entry key="..\:/DEVEN_WORKSPACE/Projects/VIK3/app/src/main/res/layout/item_song_list.xml" value="0.3435897435897436" />
+        <entry key="..\:/DEVEN_WORKSPACE/Projects/VIK3/app/src/main/res/menu/bottom_nav_menu.xml" value="0.3489583333333333" />
+        <entry key="..\:/DEVEN_WORKSPACE/Projects/VIK3/app/src/main/res/xml/network_security_config.xml" value="0.3489583333333333" />
+        <entry key="..\:/Project_ExpertWebTechnologies/VIK3_UPDATED-master/app/src/main/res/layout/activity_forgot_password.xml" value="0.190625" />
+        <entry key="..\:/Project_ExpertWebTechnologies/VIK3_UPDATED-master/app/src/main/res/layout/activity_log_in_activity.xml" value="0.190625" />
+        <entry key="..\:/Project_ExpertWebTechnologies/VIK3_UPDATED-master/app/src/main/res/layout/activity_registration.xml" value="0.190625" />
+        <entry key="..\:/Project_ExpertWebTechnologies/VIK3_UPDATED-master/app/src/main/res/layout/activity_splash_screen.xml" value="0.190625" />
+        <entry key="..\:/Project_ExpertWebTechnologies/VIK3_UPDATED-master/app/src/main/res/layout/fragment_home.xml" value="0.190625" />
+        <entry key="..\:/Project_ExpertWebTechnologies/VIK3_UPDATED-master/app/src/main/res/layout/fragment_more.xml" value="0.190625" />
+        <entry key="..\:/Project_ExpertWebTechnologies/VIK3_UPDATED-master/app/src/main/res/layout/fragment_radio.xml" value="0.190625" />
+        <entry key="..\:/Project_ExpertWebTechnologies/VIK3_UPDATED-master/app/src/main/res/layout/view_jcplayer.xml" value="0.33" />
+        <entry key="..\:/Project_ExpertWebTechnologies/VIK3_UPDATED-master/app/src/main/res/menu/bottom_nav_menu.xml" value="0.190625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
